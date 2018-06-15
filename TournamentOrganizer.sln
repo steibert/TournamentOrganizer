@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOManager", "TOManager\TOManager.csproj", "{E99EDBF0-DB96-4BFB-9FCD-C5185AB5A153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOMonitor", "TOMonitor\TOMonitor.csproj", "{0F8D8114-D72B-45F0-AFD0-E90C93F284AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E99EDBF0-DB96-4BFB-9FCD-C5185AB5A153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E99EDBF0-DB96-4BFB-9FCD-C5185AB5A153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E99EDBF0-DB96-4BFB-9FCD-C5185AB5A153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F8D8114-D72B-45F0-AFD0-E90C93F284AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8D8114-D72B-45F0-AFD0-E90C93F284AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8D8114-D72B-45F0-AFD0-E90C93F284AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8D8114-D72B-45F0-AFD0-E90C93F284AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
